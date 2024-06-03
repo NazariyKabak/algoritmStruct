@@ -15,7 +15,7 @@ add_executable(untitled lab4/main.cpp
         lab8/main.h
         lab9/main.cpp
         lab9/main.h
-        ambroskin/lab4/alab4.cpp
+        ambroskin/lab4/binary_search.cpp
         ambroskin/alab7/alab5.cpp
         ambroskin/alab7/alab5.2.cpp
         ambroskin/alab7/alab5.3.cpp
@@ -41,4 +41,10 @@ add_executable(untitled lab4/main.cpp
         ambroskin/alab3/search.cpp
         ambroskin/alab3/search.h
         ambroskin/alab3/main.cpp
+        ambroskin/lab4/binary_search.h
+        ambroskin/lab4/main.cpp
+        ambroskin/alab5/main.cpp
+        ambroskin/alab6/prime_search.h
+        ambroskin/alab6/prime_search.cpp
+        ambroskin/alab6/main.cpp
 )
