@@ -44,4 +44,7 @@ add_executable(untitled lab4/main.cpp
         ambroskin/alab7/search_strings.h
         ambroskin/alab7/search_strings.cpp
         ambroskin/alab7/main.cpp
+        ambroskin/alab8/kmp_search.h
+        ambroskin/alab8/kmp_search.cpp
+        ambroskin/alab8/main.cpp
 )
