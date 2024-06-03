@@ -16,9 +16,8 @@ add_executable(untitled lab4/main.cpp
         lab9/main.cpp
         lab9/main.h
         ambroskin/lab4/binary_search.cpp
-        ambroskin/alab8/alab6.cpp
-        ambroskin/alab9/alab9.cpp
-        ambroskin/alab9/alab9.2.cpp
+
+
         ambroskin/alab10/alab10.cpp
         ambroskin/alab10/alab10.2.cpp
         ambroskin/alab11/alab11.cpp
@@ -47,4 +46,11 @@ add_executable(untitled lab4/main.cpp
         ambroskin/alab8/kmp_search.h
         ambroskin/alab8/kmp_search.cpp
         ambroskin/alab8/main.cpp
+        ambroskin/alab9/selection_sort.h
+        ambroskin/alab9/selection_sort.cpp
+        ambroskin/alab9/selection_sort.cpp
+        ambroskin/alab9/selection_sort.cpp
+        ambroskin/alab9/selection_sort.cpp
+        ambroskin/alab9/main.cpp
+        ambroskin/alab9/main.cpp
 )
