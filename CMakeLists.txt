@@ -37,4 +37,8 @@ add_executable(untitled lab4/main.cpp
         ambroskin/alab2/task1.cpp
         ambroskin/alab2/task2.cpp
         ambroskin/alab2/task3.cpp
-        ambroskin/alab2/task4.cpp)
+        ambroskin/alab2/task4.cpp
+        ambroskin/alab3/search.cpp
+        ambroskin/alab3/search.h
+        ambroskin/alab3/main.cpp
+)
